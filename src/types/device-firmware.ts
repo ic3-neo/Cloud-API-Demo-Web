@@ -31,8 +31,14 @@ export interface FirmwareUploadParam {
 export enum DeviceNameEnum {
   DJI_DOCK = 'DJI Dock',
   DJI_DOCK2 = 'DJI Dock2',
+  DJI_DOCK3 = 'DJI Dock3',
   MATRICE_30 = 'Matrice 30',
   MATRICE_30T = 'Matrice 30T',
   M3D = 'M3D',
   M3TD = 'M3TD',
+  M4D = 'M4D',
+  M4TD = 'M4TD',
+  M4E = 'Matrice 4',
+  M4T = 'Matrice 4T',
+  M400 = 'Matrice 400',
 }
