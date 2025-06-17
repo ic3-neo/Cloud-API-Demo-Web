@@ -49,7 +49,7 @@ export const initDeviceSetting = {
     popConfirm: {
       visible: false,
       loading: false,
-      // content: '为保证飞行器的作业安全，建议打开夜航灯',
+      // content: 'In order to ensure the safety of the aircraft, it is recommended to turn on the night lights.',
       label: 'Drone Night Lights',
     },
     settingKey: DeviceSettingKeyEnum.NIGHT_LIGHTS_MODE_SET,
