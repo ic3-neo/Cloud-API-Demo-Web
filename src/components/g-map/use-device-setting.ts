@@ -44,7 +44,7 @@ export function useDeviceSetting () {
       }
       throw (msg)
     } catch (e) {
-      message.error('设备属性设置失败')
+      message.error('Change Setting Failed')
       return false
     }
   }
